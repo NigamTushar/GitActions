@@ -7,6 +7,7 @@ class Home extends StatelessWidget {
   Widget build(BuildContext context) {
     print('A');
     print('B');
+    print('C');
     return const Placeholder();
   }
 }
