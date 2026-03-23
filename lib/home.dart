@@ -5,7 +5,7 @@ class Home extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    print('print test');
+    print('A');
     return const Placeholder();
   }
 }
